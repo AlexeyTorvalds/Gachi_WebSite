@@ -1,0 +1,11 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+out/
+
+src/main/resources/test.properties
+
+# Maven
+log/
+target/

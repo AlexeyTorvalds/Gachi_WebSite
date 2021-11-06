@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Main-Class: org.gachi.Main
+Class-Path: spring-aop-5.3.9.jar el-api-2.2.jar dom4j-1.6.1.jar spring-o
+ rm-5.3.9.jar jakarta.activation-api-1.2.1.jar spring-expression-5.3.9.j
+ ar junit-jupiter-engine-5.4.0.jar logback-core-1.2.5.jar httpcore-4.4.1
+ 0.jar spring-web-5.3.9.jar spring-webmvc-5.3.9.jar FastInfoset-1.2.16.j
+ ar geronimo-jta_1.1_spec-1.1.1.jar spring-boot-starter-data-jpa-2.5.4.j
+ ar spring-boot-starter-aop-2.5.4.jar spring-boot-starter-2.5.4.jar jaka
+ rta.transaction-api-1.3.3.jar hibernate-jpa-2.1-api-1.0.0.Final.jar tom
+ cat-embed-websocket-9.0.52.jar javax.inject-1.jar aspectjweaver-1.9.7.j
+ ar log4j-api-2.14.1.jar log4j-to-slf4j-2.14.1.jar jboss-interceptors-ap
+ i_1.1_spec-1.0.0.Beta1.jar jandex-2.0.3.Final.jar javax.mail-1.6.2.jar 
+ txw2-2.3.2.jar spring-boot-autoconfigure-2.5.4.jar jul-to-slf4j-1.7.32.
+ jar javassist-3.25.0-GA.jar protobuf-java-2.6.0.jar cdi-api-1.1.jar hib
+ ernate-commons-annotations-5.0.1.Final.jar spring-tx-5.3.9.jar antlr-2.
+ 7.7.jar spring-boot-2.5.4.jar stax-ex-1.8.1.jar snakeyaml-1.28.jar comm
+ ons-logging-1.2.jar jakarta.xml.bind-api-2.3.2.jar spring-jcl-5.3.9.jar
+  istack-commons-runtime-3.0.8.jar httpclient-4.5.6.jar hibernate-core-5
+ .2.6.Final.jar spring-test-5.3.9.jar jaxb-runtime-2.3.2.jar commons-cod
+ ec-1.10.jar mysql-connector-java-8.0.11.jar activation-1.1.1.jar spring
+ -jdbc-5.3.9.jar spring-boot-starter-logging-2.5.4.jar spring-data-commo
+ ns-2.5.4.jar apiguardian-api-1.0.0.jar opentest4j-1.1.1.jar jakarta.ann
+ otation-api-1.3.5.jar logback-classic-1.2.5.jar spring-boot-starter-jdb
+ c-2.5.4.jar slf4j-api-1.7.30.jar tomcat-embed-core-9.0.52.jar classmate
+ -1.3.0.jar spring-data-jpa-2.5.4.jar spring-core-5.3.9.jar tomcat-embed
+ -el-9.0.52.jar spring-beans-5.3.9.jar spring-aspects-5.3.9.jar junit-pl
+ atform-commons-1.4.0.jar jakarta.persistence-api-2.2.3.jar spring-conte
+ xt-5.3.9.jar junit-jupiter-api-5.4.0.jar gson-2.8.8.jar javax.mail-api-
+ 1.6.2.jar junit-platform-engine-1.4.0.jar jsr250-api-1.0.jar HikariCP-4
+ .0.3.jar jboss-logging-3.3.0.Final.jar spring-boot-starter-tomcat-2.5.4
+ .jar
+
